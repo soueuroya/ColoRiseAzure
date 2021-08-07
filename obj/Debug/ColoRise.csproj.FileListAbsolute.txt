@@ -1,4 +1,3 @@
-C:\Users\danie\source\repos\ColoRise\ColoRise\bin\ColoRise.dll.config
 C:\Users\danie\source\repos\ColoRise\ColoRise\bin\ColoRise.dll
 C:\Users\danie\source\repos\ColoRise\ColoRise\bin\ColoRise.pdb
 C:\Users\danie\source\repos\ColoRise\ColoRise\bin\roslyn\csc.exe
