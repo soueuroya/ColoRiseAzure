@@ -56,4 +56,3 @@ C:\Users\danie\source\repos\ColoRise\ColoRise\obj\Debug\ColoRise.csproj.CoreComp
 C:\Users\danie\source\repos\ColoRise\ColoRise\obj\Debug\ColoRise.csproj.CopyComplete
 C:\Users\danie\source\repos\ColoRise\ColoRise\obj\Debug\ColoRise.dll
 C:\Users\danie\source\repos\ColoRise\ColoRise\obj\Debug\ColoRise.pdb
-C:\Users\danie\source\repos\ColoRise\ColoRise\bin\ColoRise.dll.config
