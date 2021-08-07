@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'ColoRise'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d8da02f4daa448de8f78e2979d7c0420 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_476111e3c85e4769b2be581787bc5c7c }}
         package: .
